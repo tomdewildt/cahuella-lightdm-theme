@@ -1,6 +1,6 @@
 # Cahuella LightDM Theme
 [![Version](https://img.shields.io/github/v/release/tomdewildt/cahuella-lightdm-theme?label=version)](https://github.com/tomdewildt/cahuella-lightdm-theme/releases)
-[![Release](https://img.shields.io/github/workflow/status/tomdewildt/cahuella-lightdm-theme/cd?label=release)](https://github.com/tomdewildt/cahuella-lightdm-theme/actions?query=workflow%3Acd)
+[![Release](https://img.shields.io/github/actions/workflow/status/tomdewildt/cahuella-lightdm-theme/cd.yml?branch=master&label=release)](https://github.com/tomdewildt/cahuella-lightdm-theme/actions/workflows/cd.yml)
 [![License](https://img.shields.io/github/license/tomdewildt/cahuella-lightdm-theme)](https://github.com/tomdewildt/cahuella-lightdm-theme/blob/master/LICENSE)
 
 Simple LightDM theme inspired by [cahuella](https://github.com/regolith-linux/regolith-styles/tree/master/cahuella).
